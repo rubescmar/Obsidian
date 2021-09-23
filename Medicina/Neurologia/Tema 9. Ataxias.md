@@ -1,0 +1,62 @@
+# Ataxias
+Falta de coordinación de los movimientos voluntarios que provoca una alteracion de la coordinación.
+Para que haya una buena coordinación:
+- Cerebelo: Síndrome Cerebeloso
+  - Hemisferios cerebelosos
+    - Dismetría
+    - Disdiadococinesia (irregularidad en el ritmo y amplitud de m. alternantes)
+    - Temblor cerebelosos (postural y cinético)
+    - Ataxia de miembros
+    - Nistagmo
+    - Sacadas hipermétricas
+  - Vermis
+- Sistema vestibular
+- Sensibilidad Profunda
+
+## Clasificación etiológica
+- Adquiridas
+  - Cerebrovasculares
+    - Ictus isquémico
+    - Hemorragias
+  - Tumores
+  - Desmielinizante
+  - Autoinmunes
+    - Paraneoplásica
+    - Miller-Fisher
+    - Gluten
+    - Anti-GAD
+  - Tóxico-Metabólica
+    - Alcohol
+    - Déficit vit. B12/1
+    - malabsorcion grasa: vit. E
+  - Infeccioso
+  - Estructural
+    - Dandy-Walker
+  - Degenerativa
+    - Atrofia múltiple de sistemas: Parkinsonismo Plus
+- Hereditarias: El síntoma predominante es la ataxia pero se asocian otros síntomas.
+  - AD
+    - Ataxia espinocerebelosas (SCA), la mas frecuente es la SCA 3
+      - Son por expansión de tripletes, a mas expansión mas clínica.
+  - AR
+    - Ataxia de Fiedrich (la más frecuente de las hereditarias)
+      - Repetición tripletes GAA
+      - Produce una proteína, la Frataxina (SN, corazón y páncreas)
+      - inicio <25 años
+      - ataxia progresiva, arreflexia, babinski, paraparesia, retraso mental leve
+      - NO extrapiramidal o demencia
+      - Hipertrofia ventricular en corazón
+      - Hay que pedir vit. E por que suelen ir de la mano y además la vit. E da estos síntomas también.
+    - Ataxia-Telangiectasia
+      - Afecta a sistema Nervioso, piel y S.Inmunológico
+      - Ataxia cerebelosa y arreflexia
+      - coreoatetosis
+      - Apraxia oculomotora
+      - telangiectasia Conjuntiva
+      - infecciones bacterianas
+      - noplasias linforreticulares
+      - baja la ig A y sube la alfa proteína
+  - Con defecto metabólico conocido
+    - Hiperamoniemias
+    - Déficit vit. E
+    - Niemann-Pick

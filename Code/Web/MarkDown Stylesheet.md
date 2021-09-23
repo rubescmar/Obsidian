@@ -1,0 +1,99 @@
+````CSS
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body {
+  background-color: #363636;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 1.2rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+table, th, td, tr, tbody, thead, tfoot {
+  border: none;
+  border-spacing: 0;
+  padding: .5% 4%;
+}
+
+td {
+  text-align: left;
+}
+
+tr:nth-child(2n+1) {
+  background-color: #464646;
+}
+
+tr:nth-child(2n+0) {
+  background-color: #565656;
+}
+
+tbody th {
+  color: #bd93fa;
+  text-align: left;
+}
+
+thead th{
+  text-align: center;
+  color: #f878c1;
+}
+
+h1 {
+  color: #f878c1;
+  font-size: 2.4rem;
+}
+
+h2 {
+  color: #bd93fa;
+  font-size: 2.2rem;
+}
+
+h3 {
+  color: #ff5655;
+  font-size: 2rem;
+}
+
+h4 {
+  color: #ffb86c;
+  font-size: 1.8rem;
+}
+
+h5 {
+  color: #4ffa7b;
+  font-size: 1.6rem;
+}
+
+h6 {
+  color: #8beafd;
+  font-size: 1.4rem;
+}
+
+blockquote {
+  background-color: #565656;
+  color: #fff;
+  border-left-style: solid;
+  border-color: #8beafd ;
+  padding: 3% 5%;
+}
+
+blockquote p, li {
+  color: #fff;
+}
+
+li::marker {
+  color: #8beafd;
+}
+
+strong {
+  color: #8beafd;
+}
+
+a {
+  color: #4ffa7b;
+}
+
+````
+
