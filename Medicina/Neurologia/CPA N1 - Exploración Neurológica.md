@@ -32,7 +32,7 @@ Ambos son parecidos con algunas variaciones en las preguntas empleadas, las func
 - Memoria/Aprendizaje
 - Lenguaje
 - Función ejecutiva (Es en la valoración de la función ejecutiva donde esta la principal diferencia, El MEC la valora)
-- Visoconstrucción (Fenómeno del Closing In, al pedirles que pinten según un modelo simple se acercan al modelo y acaban casi subrayandolo)
+- Visoconstrucción (Fenómeno del Closing In, al pedirles que pinten según un modelo simple se acercan al modelo y acaban casi subrayándolo)
 
 Registro de conductas observables:
 - Giro de cabeza
