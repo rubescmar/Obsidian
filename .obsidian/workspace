@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "47b724dd37ab33a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "50500cfb841a2ede",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Medicina/Neurologia/Tema 9. Ataxias.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "622e5d46c02c0eff",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3c5f2c2189486e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d20184f001d2c05",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7aca6c3ec5ef40b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bbe87e10d033faf",
+    "type": "split",
+    "children": [
+      {
+        "id": "51f9c2133936e223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd11e2f818672e5a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9bdd12b4a30a3620",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Medicina/Neurologia/Tema 9. Ataxias.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7b419db35e127b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Medicina/Neurologia/Tema 9. Ataxias.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d81257a6cb79ee39",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e7d462cee2b1a646",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Medicina/Neurologia/Tema 9. Ataxias.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "50500cfb841a2ede",
+  "lastOpenFiles": [
+    "Medicina/Neurologia/Tema 9. Ataxias.md",
+    "Medicina/Neurologia/CPA N2 - Técnicas neurofisiologicas. EMG.md",
+    "Medicina/Neurologia/CPA N1 - Exploración Neurológica.md",
+    "Medicina/Neurologia/Fisiología en Neurología.md",
+    "Medicina/Endocrino/Fisiología del sistema endocrino.md",
+    "Blog/Untitled.md",
+    "Code/Web/JavaScript Playgrounds.md",
+    "Code/Web/MarkDown Stylesheet.md",
+    "Code/Web/Bootstrap  and Font Awesome Template.md",
+    "Prueba de Teclado.md"
+  ]
+}
